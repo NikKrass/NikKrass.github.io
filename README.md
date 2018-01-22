@@ -2,9 +2,6 @@
 <html>
 <head>
   <meta charset ="UTF-8">
-  <title>
-  Красков Н.А.- мое резюме.
-  </title>
   <link rel="stylesheet" type="text/css" href="./style.css">
 </head>
 <body>
